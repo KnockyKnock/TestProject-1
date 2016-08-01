@@ -1,0 +1,13 @@
+@media screen and (max-width: 500px) {
+    
+    .top-menu button {
+        display: inline-block;
+    }
+    
+    .top-menu .header-menu.hide {
+        display: none;
+        height: 0;
+        transition: all 3s;
+    }
+    
+}

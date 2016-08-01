@@ -1,0 +1,17 @@
+@media screen and (max-width: 650px) {
+    
+    .main-header .logo-block,
+    .main-header .search-form {
+        display: block;
+        text-align: center;
+    }
+    
+    .main-header .search-form {
+        float: none;
+    }
+    
+    .main-header .search-form input {
+        margin: 0px 1%;
+        width: 90%;
+    }
+}

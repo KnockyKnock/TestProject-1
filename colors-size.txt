@@ -1,0 +1,13 @@
+top line, search field: #1d1d1d
+main gradient: form #2f2f2f to #242424
+menu light: #2b739b
+menu dark: #165070
+
+menu height: 65px
+top line height: 35px
+main header line : 150px
+search width: 400px
+search height: 35px
+
+font: arial
+menu font-size: 16px
